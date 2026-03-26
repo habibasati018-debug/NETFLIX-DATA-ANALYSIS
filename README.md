@@ -9,7 +9,7 @@ The goal is to understand how content varies by type, rating, and geography.
 
 ## 📊 Dashboard 
 
-https://public.tableau.com/views/netflixdeshbord/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  Netflix
+https://public.tableau.com/views/netflixdeshbord/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 
 ---
@@ -24,6 +24,7 @@ https://public.tableau.com/views/netflixdeshbord/Dashboard1?:language=en-US&:sid
 
 ## Advanced Insights
 
+https://github.com/habibasati018-debug/NETFLIX-DATA-ANALYSIS/edit/main/insights.md
 ---
 
 ## 🔍 Exploratory Data Analysis (EDA)
